@@ -1,5 +1,6 @@
 Katrina Fortunes
 ========
+![katrina](/katrina2.png)
 
 Katrina Fortunes sends fortunes from Animal Crossing's beloved fortune-teller Katrina vis SMS using the Twilio API.
 
